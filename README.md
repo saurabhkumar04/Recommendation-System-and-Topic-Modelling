@@ -1,2 +1,15 @@
-# Recommendation-System-and-Topic-Modelling
-A user and item based recommendation system for yelp dataset and did topic modeling using LDA and word2vec.
+Folder Contains Project Code
+
+Task 1
+
+User Based Similarity Codes
+
+Item Based Similarity Codes
+
+Factorization Machine
+
+Task 2
+
+Word2vec with LDA
+
+Result
